@@ -1,5 +1,6 @@
 package com.demo;
 /**
+ * 
  * 最基本的lambda表达式
  * @author Administrator
  */
