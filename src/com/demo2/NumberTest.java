@@ -1,6 +1,6 @@
 package com.demo2;
 /**
- * 带参的lambad类型
+ * 甯﹀弬鐨刲ambad绫诲瀷
  */
 public interface NumberTest {
 	

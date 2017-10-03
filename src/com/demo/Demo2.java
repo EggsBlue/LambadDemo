@@ -3,7 +3,7 @@ package com.demo;
 import java.util.Random;
 
 /**
- * Lambad±í´ïÊ½Á·Ï°
+ * Lambadè¡¨è¾¾å¼ç»ƒä¹ 
  *12
  */
 public class Demo2 {

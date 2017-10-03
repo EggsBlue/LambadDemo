@@ -1,6 +1,6 @@
 package com.demo2;
 /**
- * ´«²ÎÊ¹ÓÃlambad±í´ïÊ½
+ * ä¼ å‚ä½¿ç”¨lambadè¡¨è¾¾å¼
  * @author Administrator
  *
  */
@@ -18,9 +18,9 @@ public class Demo1 {
 		
 		NumberTest isNonNeg = (n) -> n >= 0;
 		if(isNonNeg.test(1))
-			System.out.println("1´óÓÚ0");
+			System.out.println("1å¤§äº0");
 		if(isNonNeg.test(-1))
-			System.out.println("-1´óÓÚ0");
+			System.out.println("-1å¤§äº0");
 		
 		
 	}

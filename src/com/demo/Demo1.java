@@ -1,12 +1,12 @@
 package com.demo;
 /**
  * 
- * ×î»ù±¾µÄlambda±í´ïÊ½
+ * æœ€åŸºæœ¬çš„lambdaè¡¨è¾¾å¼
  * @author Administrator
  */
 public class Demo1 {
 	public static void main(String[] args) {
-		//ÆÕÍ¨µÄ»°ÎÒÃÇÓ¦¸ÃÕâÃ´°ì
+		//æ™®é€šçš„è¯æˆ‘ä»¬åº”è¯¥è¿™ä¹ˆåŠž
 		MyNumber mb = new MyNumber() {
 			@Override
 			public int getValue() {
@@ -15,7 +15,7 @@ public class Demo1 {
 		};
 		System.out.println(mb.getValue());
 		
-		//lambad±í´ïÊ½°æ
+		//lambadè¡¨è¾¾å¼ç‰ˆ
 		MyNumber mb1 = () -> 123;
 		System.out.println(mb1.getValue());
 	}

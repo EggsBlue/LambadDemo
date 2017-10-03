@@ -1,6 +1,6 @@
 package com.demo2;
 /**
- * ´øÁ½¸ö²ÎÊıµÄlambad±í´ïÊ½
+ * å¸¦ä¸¤ä¸ªå‚æ•°çš„lambadè¡¨è¾¾å¼
  * @author Administrator
  */
 public class Demo2 {
