@@ -4,7 +4,6 @@ import java.util.Random;
 
 /**
  * Lambad表达式练习
- *12
  */
 public class Demo2 {
 	public static void main(String[] args) {
