@@ -20,6 +20,8 @@ public class Demo1 {
 		String inStr = "I love yoU!";
 		//按照原始来做
 		StringFunc c = (in) -> in.toUpperCase();
+		
+		
 		System.out.println(c.func(inStr));
 		
 		//按照参数传递来做
